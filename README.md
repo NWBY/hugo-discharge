@@ -16,5 +16,5 @@ Running the commands below allow you to check you have the latest versions of hu
 hugo version
 discharge --version
 ```
-
+Works perfectly with Firebase deployment from GitLab CI/CD
 
