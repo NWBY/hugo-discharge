@@ -2,7 +2,7 @@ FROM node:11.6.0-alpine
 
 LABEL maintainer="sam.newby19@icloud.com"
 
-ENV HUGO_VERSION 0.55
+ENV HUGO_VERSION 0.63
 
 RUN set -x && \
     apk add --no-cache wget ca-certificates && \
