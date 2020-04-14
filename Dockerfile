@@ -1,6 +1,6 @@
 FROM node:11.6.0-alpine
 
-LABEL maintainer="sam.newby19@icloud.com"
+LABEL maintainer="sam@nwby.io"
 
 ENV HUGO_VERSION 0.63
 
